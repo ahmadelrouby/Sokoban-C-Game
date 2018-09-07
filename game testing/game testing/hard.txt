@@ -1,0 +1,7 @@
+menna 10
+Islam 3
+Amr 4
+ahmad 10
+Zeyad 7
+d 7
+
